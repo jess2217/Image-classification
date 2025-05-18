@@ -1,1 +1,1 @@
-# Image-classification
+# FastAPI Twitter sentiment analyzer (Tweepy/TextBlob) 
